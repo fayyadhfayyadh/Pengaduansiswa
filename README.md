@@ -47,3 +47,4 @@ Jalankan aplikasi menggunakan perintah berikut:
 php artisan serve
 npm run dev
 ```
+
