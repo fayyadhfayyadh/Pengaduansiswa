@@ -67,7 +67,7 @@ class siswacontroller extends Controller
      */
     public function edit(string $id)
     {
-        //
+       
     }
 
     /**
